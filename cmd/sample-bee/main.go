@@ -9,7 +9,7 @@ import (
 
 func commandRoot() *cobra.Command {
 	rootCmd := &cobra.Command{
-		Use: "sample-bee",
+		Use: "parser-bee",
 		Run: func(cmd *cobra.Command, args []string) {
 			_ = cmd.Help()
 			os.Exit(2)

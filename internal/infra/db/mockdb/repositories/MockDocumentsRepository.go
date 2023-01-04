@@ -2,8 +2,8 @@ package repositories
 
 import (
 	"context"
-	"github.com/luminosita/sample-bee/internal/domain/entities"
-	"github.com/luminosita/sample-bee/internal/interfaces/respositories/documents"
+	"github.com/luminosita/parser-bee/internal/domain/entities"
+	"github.com/luminosita/parser-bee/internal/interfaces/respositories/documents"
 )
 
 type MockDocumentsRepository struct {

@@ -2,7 +2,7 @@ package documents
 
 import (
 	"github.com/luminosita/honeycomb/pkg/interfaces"
-	"github.com/luminosita/sample-bee/internal/domain/entities"
+	"github.com/luminosita/parser-bee/internal/domain/entities"
 )
 
 type GetAllDocumenterRequest = struct {

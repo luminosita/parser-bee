@@ -2,7 +2,7 @@ package documents
 
 import (
 	"github.com/luminosita/honeycomb/pkg/http"
-	"github.com/luminosita/sample-bee/internal/interfaces/use-cases/documents"
+	"github.com/luminosita/parser-bee/internal/interfaces/use-cases/documents"
 )
 
 type GetAllDocumentsHandler struct {

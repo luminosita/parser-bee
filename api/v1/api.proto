@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package api;
 
-option go_package = "github.com/luminosita/sample-bee/api";
+option go_package = "github.com/luminosita/parser-bee/api";
 
 message Document {
   string id = 1;
